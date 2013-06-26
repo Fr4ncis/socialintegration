@@ -292,7 +292,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = AKQA;
+				ORGANIZATIONNAME = Francesco;
 			};
 			buildConfigurationList = D588E8621779F67F000B1729 /* Build configuration list for PBXProject "SocialIntegration" */;
 			compatibilityVersion = "Xcode 3.2";

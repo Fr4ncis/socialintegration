@@ -3,7 +3,7 @@
 //  SocialIntegration
 //
 //  Created by Francesco Mattia on 25/06/2013.
-//  Copyright (c) 2013 AKQA. All rights reserved.
+//  Copyright (c) 2013 Francesco. All rights reserved.
 //
 
 #import "ViewController.h"
